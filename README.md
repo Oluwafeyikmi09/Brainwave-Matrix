@@ -47,6 +47,5 @@
 
 #### Overview of Findings 
 
-https://github.com/Oluwafeyikmi09/Brainwave-Matrix/blob/main/Screenshot%201.jpg
 
-
+![image](https://github.com/user-attachments/assets/034da2fe-e566-48ad-a40e-0a9c6667a876)
